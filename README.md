@@ -1,4 +1,10 @@
-Advanced-Data-Structures
+Advanced Data Structures
 ========================
 
-Assignments from Advanced Data Structures
+Assignments from Advanced Data Structures (CMSC335L-200)
+
+CircularList contains an array-based circular list and a reference-based circular list.
+
+VacSys contains a priority-based vaccination allocation system.
+
+Prefix contains a table-based class that looks up and sums values based on key prefix matches.
