@@ -1,7 +1,7 @@
 Advanced Data Structures
 ========================
 
-Assignments from Advanced Data Structures (CMSC335L-200)
+Assignments from Advanced Data Structures.
 
 CircularList contains an array-based circular list and a reference-based circular list.
 
