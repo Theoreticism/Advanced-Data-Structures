@@ -1,7 +1,7 @@
 Advanced Data Structures
 ========================
 
-Assignments from Advanced Data Structures.
+Assignments from Advanced Data Structures, taught by Professor Benjamin Carle.
 
 CircularList contains an array-based circular list and a reference-based circular list.
 
